@@ -1,0 +1,103 @@
+body{
+    background-color: paleturquoise;
+}
+#sketch_toggle_btn{
+   float: right;
+   margin-right: 20px;
+   background-color: black;
+}
+
+#header_div {
+    background-color: #b4b4b4;
+    border-radius: 5px;
+    width: 90%;
+    height: 57px;
+}
+
+#sketch_toggle_btn {
+    margin-top: 9px;
+}
+
+#header{
+    margin-top: 15px;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+#result_div{
+    width: 300px;
+    height: 200px;
+    float: left;
+    margin-left: 75px;
+    margin-top: 150px;
+    background-color: antiquewhite;
+    border-radius: 7px;
+    border: 20px;
+    border-color: black;
+}
+
+#score_timer_div{
+    width: 300px;
+    height:200px;
+    margin-right: 75px;
+    margin-top: 100px;
+    float: right;
+    background-color: antiquewhite;
+    border-radius: 7px;
+    border-style: double;
+    border: 20px;
+    border-color: black;
+}
+
+#result_sketch {
+    margin-top: 5px;
+    font-weight: bolder;
+    font-size: 25px;
+    float: left;
+    margin-left: 5px;
+}
+
+#result_confidence {
+    margin-top: 85px;
+    font-weight: bolder;
+    font-size: 25px;
+    float: left;
+    margin-left: 5px;
+} 
+#score_label{
+    font-weight: bolder;
+    font-size: 25px;
+    float: left;
+    margin-left: 35px;
+    margin-top: 25px;
+}
+
+#timer_label{
+    font-weight: bolder;
+    font-size: 25px;
+    float: right;
+    margin-right: 35px;
+    margin-top: 25px;
+}
+#result_score_timer{
+    margin-top: 75px;
+}
+#score{
+    float: left;
+    font-size: 25px;
+    font-weight: bolder;
+    margin-left: 47px;
+    margin-top: 30px;
+}
+#timer{
+    float: right;
+    font-size: 25px;
+    font-weight: bolder;
+    margin-right: 51px;
+    margin-top: 30px;
+}
+#challenge_label{
+    margin-top: 500px;
+    font-weight: bolder;
+    
+}
